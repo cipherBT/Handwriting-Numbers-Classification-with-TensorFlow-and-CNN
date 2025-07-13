@@ -14,7 +14,7 @@ This project showcases a Convolutional Neural Network (CNN) built with TensorFlo
 
 ---
 
-## 📦 Repository Contents
+## Repository Contents
 
 - `Handwriting Classification Model (MNIST).ipynb` — Complete Jupyter notebook (code, outputs, and explanations)
 - `README.md` — Project description and usage guide
@@ -22,7 +22,7 @@ This project showcases a Convolutional Neural Network (CNN) built with TensorFlo
 
 ---
 
-## 🧠 Core Concepts Demonstrated
+## Core Concepts Demonstrated
 
 - Image preprocessing for deep learning
 - Building a CNN with Keras
@@ -33,7 +33,7 @@ This project showcases a Convolutional Neural Network (CNN) built with TensorFlo
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Tool/Library   | Purpose                      |
 |----------------|------------------------------|
@@ -48,7 +48,7 @@ This project showcases a Convolutional Neural Network (CNN) built with TensorFlo
 
 ---
 
-## 🏗️ Model Architecture & Summary
+## Model Architecture & Summary
 
 The CNN architecture used in this project:
 
@@ -93,7 +93,7 @@ _________________________________________________________________
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 - Training & validation accuracy
 - Training & validation loss curves
@@ -102,18 +102,18 @@ _________________________________________________________________
 
 ---
 
-## ⚡ How to Use This Project
+## How to Use This Project
 
 Open the notebook `Handwriting Classification Model (MNIST).ipynb` in Jupyter Notebook, and run each cell sequentially. All instructions, code, and outputs are self-contained within the notebook.
 
 ---
 
-## 💡 Tips
+## Tips
 
 - Use a Python environment with TensorFlow, Keras, NumPy, Matplotlib, Seaborn, and Pandas installed.
 - The notebook includes visualizations for training curves and confusion matrix for easy performance analysis.
 
-## 📖 References
+## References
 
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 - [Keras Documentation](https://keras.io/)
