@@ -110,7 +110,7 @@ Open the notebook `Handwriting Classification Model (MNIST).ipynb` in Jupyter No
 
 ## 💡 Tips
 
-- For best results, use a Python environment with TensorFlow, Keras, NumPy, Matplotlib, Seaborn, and Pandas installed.
+- Use a Python environment with TensorFlow, Keras, NumPy, Matplotlib, Seaborn, and Pandas installed.
 - The notebook includes visualizations for training curves and confusion matrix for easy performance analysis.
 
 ## 📖 References
