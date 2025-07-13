@@ -7,7 +7,7 @@ This project showcases a Convolutional Neural Network (CNN) built with TensorFlo
 ## 🚀 Project Overview
 
 - **Dataset:** MNIST (70,000 grayscale images of handwritten digits 0–9)
-- **Input Shape:** 28×28 pixels, grayscale
+- **Input Shape:** 28×28 pixels, grayscale (1 channel)
 - **Model Type:** Convolutional Neural Network (CNN)
 - **Framework:** TensorFlow & Keras
 - **Task:** Predict the digit in each image (0–9)
